@@ -2,7 +2,7 @@
 
 -My real name is Jordan White
 
--I’m interested in Artifical Intelligence and Cyber Security. 
+-I’m interested in Artifical Intelligence.
 
 -I’m currently majoring in Computer Science at the University of Tulsa. 
 
