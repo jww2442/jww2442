@@ -1,9 +1,5 @@
 -Hi, I’m @jww2442
-
--My real name is Jordan White
-
+-My name is Jordan White
 -I’m interested in Artifical Intelligence.
-
--I’m currently majoring in Computer Science at the University of Tulsa. 
-
+-I’m majoring in Computer Science at the University of Tulsa. 
 -How to reach me: jordanwhite@utulsa.edu
